@@ -1,0 +1,12 @@
+## Lists all Python dependencies.
+
+pip install python-dotenv
+pip install ccxt
+pip install pandas
+pip install pytest
+ccxt
+pandas
+numpy
+python-dotenv
+
+
