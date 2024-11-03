@@ -9,7 +9,7 @@ Arbitrage Detection: Identify price spreads that present profitable  = - - - opp
  - Risk Management: Handle errors, transfer delays, and ensure liquidity.
  - Performance Tracking: Log trades and calculate net profits.
 
-## 10/8/2024
+## 10/8/
  ## TODOS: 
   - [x] 1.Register and obtain API keys for exchanges like Binance, Kraken,Coinbase - NOT DONE
   - [x] 2.Write a simple script to fetch account balances or current prices to ensure connections are successful. -  DONE
@@ -46,29 +46,8 @@ NEXT STEPS: TODO:INSHALLAH
   - [x] 22.
 
 
-## Project Structure
-crypto_arbitrage_bot/
-│
-├── config/
-│   └── config.py
-│
-├── data/
-│   └── arbitrage_bot.log
-│
-├── scripts/
-│   ├── __init__.py
-│   ├── exchanges.py
-│   ├── data_fetcher.py
-│   ├── arbitrage.py
-│   ├── executor.py
-│   ├── logger.py
-│   └── bot.py
-│
-├── tests/
-│   └── test_bot.py
-│
-├── requirements.txt
-└── README.md
+
+
 
 THE PROJECT IS YET TO BE COMPLETED - I;M STILL DEVELOPING IT IT NEED ALOT OF REMODIFICATIONS AND IMPROVEMENTS
 
