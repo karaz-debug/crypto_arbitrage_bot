@@ -11,7 +11,7 @@ Arbitrage Detection: Identify price spreads that present profitable  = - - - opp
 
 ## 10/8/
  ## TODOS: 
-  - [x] 1.Register and obtain API keys for exchanges like Binance, Kraken,Coinbase - NOT DONE
+  - [x] 1.Register and obtain API keys for exchanges like Binance, Kraken,Coinbase -  DONE
   - [x] 2.Write a simple script to fetch account balances or current prices to ensure connections are successful. -  DONE
 
   - [x] 3.Fetch Tickers from Each Exchange: - DONE
@@ -36,8 +36,8 @@ Avoid slippage by limiting order sizes
 
 NEXT STEPS: TODO:INSHALLAH
        Cloud Servers: AWS, Google Cloud, Azure for reliable uptime. -  NOT DONE
-  - [x] 15.  1.Register and obtain API keys for exchanges like Binance, Kraken,Coinbase - NOT DONE
-  - [x] 16. .If transferring funds between exchanges, ensure that transfers are tracked and completed before executing subsequent trades. - ALMOST DONE
+  - [x] 15.  1.Register and obtain API keys for exchanges like Binance, Kraken,Coinbase -  DONE
+  - [x] 16. .If transferring funds between exchanges, ensure that transfers are tracked and completed before executing subsequent trades. - DOING
   - [x] 17..Before placing large orders, check the order book depth to ensure sufficient liquidity. - PARTIAL DONE
   - [x] 18..Run the bot in a simulated environment without executing real trades. - NOT DONE
   - [x] 19.
